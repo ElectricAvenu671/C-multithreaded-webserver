@@ -1,1 +1,1 @@
-# C-mulitthreaded-webserver
+# C-multithreaded-webserver
