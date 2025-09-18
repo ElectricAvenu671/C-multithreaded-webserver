@@ -1,0 +1,16 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+server
+a.out
+
+# Debug / core dumps
+*.out
+*.stackdump
+*.core
+
+# Editor/OS specific files
+*~
+.DS_Store
+
